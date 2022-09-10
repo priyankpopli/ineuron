@@ -1,2 +1,2 @@
 # ineuron
-This is my assignment repository for iNeuron. 
+This is my assignment repository for Data Analytics. 
